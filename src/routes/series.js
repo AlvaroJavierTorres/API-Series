@@ -1,6 +1,7 @@
 const { Router } = require('express');
 const router = Router();
-const guion = require('underscore'); 
+const guion = require('underscore');
+
 
 const series = require('../sampleSeries.json');
 

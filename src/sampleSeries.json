@@ -1,4 +1,5 @@
-[
+{
+    "results": [
     {
         "id": "1",
         "titulo": "Chainsaw Man",
@@ -12,5 +13,34 @@
         "genero": "Comedia",
         "año": "2021",
         "score": "7.3"
+    },
+    {
+        "id": "3",
+        "titulo": "Cardcaptor Sakura",
+        "genero": "Fantasia",
+        "año": "1998",
+        "score": "8.1"
+    },
+    {
+        "id": "4",
+        "titulo": "Log Horizon",
+        "genero": "Aventura",
+        "año": "2013",
+        "score": "8.0"
+    },
+    {
+        "id": "5",
+        "titulo": "Elfen Lied",
+        "genero": "Horror",
+        "año": "2004",
+        "score": "7.5"
+    },
+    {
+        "id": "6",
+        "titulo": "Toradora!",
+        "genero": "Romance",
+        "año": "2008",
+        "score": "8.3"
     }
 ]
+}
