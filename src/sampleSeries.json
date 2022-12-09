@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "titulo": "Chainsaw Man",
+        "genero": "Accion",
+        "año": "2022",
+        "score": "8.9"
+    },
+    {
+        "id": "2",
+        "titulo": "Sentouin, Hakenshimasu!",
+        "genero": "Comedia",
+        "año": "2021",
+        "score": "7.3"
+    }
+]
