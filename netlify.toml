@@ -1,4 +1,4 @@
 [
 build
 ]
-functions = "./src/index.js"
+functions = "src"
